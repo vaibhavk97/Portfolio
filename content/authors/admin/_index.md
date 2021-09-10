@@ -24,8 +24,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Georgia Institute of Technology
+    url: https://www.gatech.edu/
 education:
   courses:
     - course: PhD in Artificial Intelligence
